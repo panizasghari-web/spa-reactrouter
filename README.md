@@ -1,6 +1,7 @@
 # sap-react-router
 
-[Live Demo](https://spa-reactrouter.netlify.app/)    *VPN
+[Live Demo](https://panizasghari-web.github.io/spa-reactrouter/) 
+⚠️ Important: If the website doesn't load or the API requests don't work correctly, please make sure your VPN is turned on and try again.
 
 # React Posts & Users Dashboard (SPA) 🚀
 
@@ -118,9 +119,9 @@ API resources used in this project:
 
 ## 🌍 Live Demo
 
-🚀 Live Demo: https://spa-reactrouter.netlify.app/
+🚀 Live Demo: https://panizasghari-web.github.io/spa-reactrouter/
 
-⚠️ Important: The live demo is hosted on Netlify. If the website doesn't load or the API requests don't work correctly, please make sure your VPN is turned on and try again.
+⚠️ Important: If the website doesn't load or the API requests don't work correctly, please make sure your VPN is turned on and try again.
 
 ## 🎯 Purpose of the Project
 
