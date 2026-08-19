@@ -58,7 +58,7 @@ JSONPlaceholder
 
 A simple landing page containing links to the Posts and Users sections.
 
-<img width="959" height="411" alt="1" src="https://github.com/user-attachments/assets/c8745683-ccfd-42ed-95a1-1081ee075dac" />
+<img width="959" height="412" alt="1" src="https://github.com/user-attachments/assets/ed748641-c0e1-4f8e-a4e4-d263af738685" />
 
 ## 📝 Posts
 
@@ -76,13 +76,13 @@ View the list of posts
 
 Receive feedback through toast notifications
 
-<img width="959" height="413" alt="2" src="https://github.com/user-attachments/assets/3df68a37-468e-4129-b702-fcc46975b639" />
+<img width="959" height="412" alt="2" src="https://github.com/user-attachments/assets/14317f2e-31cc-4d74-9287-664deec552b8" />
 
-<img width="959" height="413" alt="3" src="https://github.com/user-attachments/assets/c7774c8a-99d0-4f20-92c3-9ccc90e60131" />
+<img width="959" height="413" alt="3" src="https://github.com/user-attachments/assets/60d6068e-f398-4fd8-bd82-fa5936638221" />
 
-<img width="959" height="412" alt="4" src="https://github.com/user-attachments/assets/da7de3c5-3730-411f-9bbd-44ebcf5e0072" />
+<img width="959" height="412" alt="4" src="https://github.com/user-attachments/assets/35c796d2-b825-463b-9e4e-827c03ac9c37" />
 
-<img width="959" height="412" alt="5" src="https://github.com/user-attachments/assets/762d6439-a6f0-43f3-93af-d2efe63ea1ff" />
+<img width="959" height="412" alt="5" src="https://github.com/user-attachments/assets/c1269de6-ce71-47e8-878b-6bb8fb6e860e" />
 
 ## 👤 Users
 
@@ -90,9 +90,9 @@ Users are fetched from the JSONPlaceholder API.
 
 Clicking on a user's title/name allows you to view more detailed information about that user.
 
-<img width="959" height="413" alt="6" src="https://github.com/user-attachments/assets/2cfdf685-9072-4e4f-93cb-b7c3bbece1e6" />
+<img width="959" height="413" alt="6" src="https://github.com/user-attachments/assets/f0d13b26-f339-4103-b1a5-73bb3b3039a2" />
 
-<img width="959" height="412" alt="7" src="https://github.com/user-attachments/assets/0659fac1-df97-414b-ba5a-d4ad68e2b6cc" />
+<img width="959" height="412" alt="7" src="https://github.com/user-attachments/assets/3a5f2819-7c77-4884-b344-5e1f098f6695" />
 
 ## 🧭 Header
 
