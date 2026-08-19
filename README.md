@@ -148,6 +148,6 @@ This project is intentionally simple and was built as a hands-on React practice 
 
 ## 👩‍💻 Author
 
-Paniz Asghari
+Developed with ❤️ by <ins>Paniz Asghari</ins>
 
 Frontend Developer | React.js
